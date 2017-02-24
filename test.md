@@ -1,3 +1,3 @@
 This is a test file
 
-And this is a change.
+Now I changed it!
